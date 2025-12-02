@@ -2,7 +2,7 @@
 
 # 👋 I'm Ofir — Data Scientist & Biophysicist  
 *M.Sc. in Applied Mathematics · Data Science · Bar-Ilan University*  
-Exploring how **math, data, and learning systems** connect 🧬📊  
+Exploring how **math, and data** connect 🧬📊  
 
 </div>
 
