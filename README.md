@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourID" width="140" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Ofir 👋</h1>
